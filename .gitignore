@@ -1,0 +1,29 @@
+# Dependencies and builds
+node_modules/
+dist/
+.vercel/
+coverage/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary files and editor settings
+.DS_Store
+*.log
+*.tsbuildinfo
+*.tmp
+*.swp
+.vscode/
+.idea/
+tmp/
+temp/
+
+# Local preview captures
+/*-apercu.png
+/apercu.png

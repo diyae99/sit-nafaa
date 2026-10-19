@@ -1,0 +1,5 @@
+Licence : Pexels License
+Source : https://www.pexels.com/fr-fr/license/
+Consultée le 18 octobre 2026, ainsi que la licence « Free » sur chacune des quatre pages sources.
+Résumé, sans substitution aux conditions originales : utilisation gratuite sur des sites personnels ou commerciaux et modification autorisées ; attribution non obligatoire. Ne pas suggérer une approbation des personnes ou marques représentées ; ne pas présenter des personnes de façon offensante ; ne pas vendre les images brutes ou les redistribuer comme banque d’images ; ne pas en faire une marque.
+Usage NAFAE : illustrations dans des cartes de cycles, signalées publiquement comme telles, sans prétendre représenter les élèves de l’établissement. Crédits volontaires et sources dans LICENSES.md et sources.json.

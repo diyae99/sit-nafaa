@@ -1,0 +1,50 @@
+[
+  {
+    "file": "maternelle.jpg",
+    "photographer": "RDNE Stock project",
+    "source": "https://www.pexels.com/photo/children-playing-with-their-toys-inside-the-school-8363047/",
+    "download": "https://images.pexels.com/photos/8363047/pexels-photo-8363047.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified": "2026-10-18",
+    "attribution_required": false,
+    "sha256": "b12f1825f942c7b42dbc111fdef53eb5aebb92375e24a9f59e458b138114939c",
+    "usage": "Photographie d’illustration uniquement ; aucune relation avec les élèves ou l’établissement NAFAE."
+  },
+  {
+    "file": "primaire.jpg",
+    "photographer": "Mikhail Nilov",
+    "source": "https://www.pexels.com/photo/kids-studying-in-the-classroom-8923877/",
+    "download": "https://images.pexels.com/photos/8923877/pexels-photo-8923877.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified": "2026-10-18",
+    "attribution_required": false,
+    "sha256": "b65f65abf7b172886de31ef2d866a7f010f8354dd17e475518d4459e15e982fb",
+    "usage": "Photographie d’illustration uniquement ; aucune relation avec les élèves ou l’établissement NAFAE."
+  },
+  {
+    "file": "college.jpg",
+    "photographer": "Hanna Alves",
+    "source": "https://www.pexels.com/photo/students-in-classroom-participating-in-exam-28812520/",
+    "download": "https://images.pexels.com/photos/28812520/pexels-photo-28812520.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified": "2026-10-18",
+    "attribution_required": false,
+    "sha256": "c4ae01a4dd31bf6a7c1a85e6e0d53ecd3b342a7bfe8be52c283b60908814703b",
+    "usage": "Photographie d’illustration uniquement ; aucune relation avec les élèves ou l’établissement NAFAE."
+  },
+  {
+    "file": "lycee.jpg",
+    "photographer": "This And No Internet 25",
+    "source": "https://www.pexels.com/photo/teenagers-studying-in-classroom-with-british-decor-29242207/",
+    "download": "https://images.pexels.com/photos/29242207/pexels-photo-29242207.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified": "2026-10-18",
+    "attribution_required": false,
+    "sha256": "6d56efa27b8b040543ef40d425ed874de33254985dfabb67051104f7e0fb7aa0",
+    "usage": "Photographie d’illustration uniquement ; aucune relation avec les élèves ou l’établissement NAFAE."
+  }
+]
